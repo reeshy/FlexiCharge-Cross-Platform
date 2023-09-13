@@ -32,7 +32,7 @@ dependencies:
   snapping_sheet: ^3.1.0
   flutter_svg: ^0.22.0
   loading_overlay_pro: ^2.1.1
-  splashscreen: ^1.2.0
+ # splashscreen: ^1.2.0
   gradient_widgets: ^0.6.0
   pin_code_fields: ^7.3.0
 
